@@ -1,0 +1,13 @@
+.wrapperButtons {
+  display:flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.walletButton {
+    margin-top: 4px;
+    border-radius:5px; 
+    padding:2px; 
+    background:linear-gradient(195deg,#7981EB,#F16085);
+    text-decoration: none;
+  }

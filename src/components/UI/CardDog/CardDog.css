@@ -1,0 +1,8 @@
+.card-img-bg {
+    display: flex;
+    justify-content: center;
+    align-items:center;
+}
+.card_img{
+    width:260px;
+}

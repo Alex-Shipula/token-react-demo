@@ -1,0 +1,10 @@
+.scale {
+        height: 10px;
+        background: linear-gradient(
+    122.4deg
+    , #7981EB -1.47%, #F16085 102.19%);
+        border-radius: 32px;
+        flex: none;
+        order: 0;
+        flex-grow: 0;
+}
